@@ -1,3 +1,4 @@
+#OSCAR_VERSION
 # Instalación de los Ejercicios
 ## Prerequisitos
 
